@@ -1,6 +1,6 @@
 name: "classic-music"
-displayName: "[orange]<[clear]Mindustry[orange]>[clear] Classic[gold] Music"
+displayName: "[orange]<[white]Mindustry[orange]>[clear] Classic[gold] Music"
 author: "[magenta]DaGamerFiles"
 description: "Play with classic Mindustry music! [gold](from v3.3r27 and v3.5r40)"
-version: "1.5"
+version: "1.6"
 minGameVersion: "103"
