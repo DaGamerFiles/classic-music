@@ -9,22 +9,23 @@ Credits to Anuke (Mindustry dev) and the music creator, I didn't make any of tho
 2. The mod will be automatically enabled. If disabled, enable the mod and restart the game.
 
 ### Multiplayer
-(Follow the steps above, with extra step)
+1. Same step as above.
+2. Same step as above.
 3. After you follow the 2nd step, disable the mod and join any server you want.
 
 ## Music List
 
-`menu`		: `1.ogg` from v3.3r27
-`editor`	: `6.mp3` from v3.5r40
-`launch`	: `2.mp3` from v3.5r40
-`game1`		: `3.ogg` from v3.3r27
-`game2`		: `2.ogg` from v3.3r27
-`game3`		: `1.ogg` from v3.3r27
-`game4`		: `4.ogg` from v3.3r27
-`game5`		: `1.mp3` from v3.5r40
-`game6`		: `3.mp3` from v3.5r40
-`game7`		: `4.mp3` from v3.5r40
-`game8`		: `5.mp3` from v3.5r40
+1. menu: `1.ogg` from v3.3r27.)
+2. editor: `6.mp3` from v3.5r40.)
+3. launch: `2.mp3` from v3.5r40.)
+4. game1: `3.ogg` from v3.3r27.)
+5. game2: `2.ogg` from v3.3r27.)
+6. game3: `1.ogg` from v3.3r27.)
+7. game4: `4.ogg` from v3.3r27.)
+8. game5: `1.mp3` from v3.5r40.)
+9. game6: `3.mp3` from v3.5r40.)
+10. game7: `4.mp3` from v3.5r40.)
+11. game8: `5.mp3` from v3.5r40.)
 
 ## Other Mindustry Mods!
 
