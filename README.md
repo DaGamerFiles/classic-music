@@ -1,11 +1,10 @@
 # Mindustry Classic Music Pack
-Self explanatory, it plays Mindustry Classic music. Versions used from old Mindustry version and downloadable version of Mindustry Classic.
+Self explanatory, it plays Mindustry Classic music. Versions used from old Mindustry version and downloadable version of Mindustry Classic. Make sure to extract the `.zip` file, otherwise it would crash the game (especially on mobile version).
 Credits to Anuke (Mindustry dev) and the music creator, I didn't make any of those (except the mod duh).
 
 ## Mods 101
-
 ### Singleplayer
-1. Extract the archive to your `mods` location (`%appdata%\Mindustry\mods` or your Mindustry Steam installation file).
+1. Extract the archive to your `mods` location (`%appdata%\Mindustry\mods` or your Mindustry Steam installation file for Desktop version).
 2. The mod will be automatically enabled. If disabled, enable the mod and restart the game.
 
 ### Multiplayer
