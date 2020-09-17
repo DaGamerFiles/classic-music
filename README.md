@@ -7,10 +7,12 @@ Credits to Anuke (Mindustry dev) and the music creator, I didn't make any of tho
 1. Extract the archive to your `mods` location (`%appdata%\Mindustry\mods` or your Mindustry Steam installation file for Desktop version).
 2. The mod will be automatically enabled. If disabled, enable the mod and restart the game.
 
-### Multiplayer
-1. Same step as above.
-2. Same step as above.
-3. After you follow the 2nd step, disable the mod and join any server you want.
+### ~~Multiplayer~~
+1. ~~Same step as above.~~
+2. ~~Same step as above.~~
+3. ~~After you follow the 2nd step, disable the mod and join any server you want.~~
+
+_**(Due to the new mod reloading system you can't use this in multiplayer for client-side v6.0 alpha unless everyone in your server have the mod)**_
 
 ## Music List
 
