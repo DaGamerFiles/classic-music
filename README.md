@@ -17,7 +17,7 @@ _**(Due to the new mod reloading system you can't use this in multiplayer for cl
 ## Music List
 
 1. menu: `1.ogg` from v3.3r27.)
-2. editor: `6.mp3` from v3.5r40.)
+2. editor: `game4.ogg` from v5 build 104.5.)
 3. launch: `2.mp3` from v3.5r40.)
 4. game1: `3.ogg` from v3.3r27.)
 5. game2: `2.ogg` from v3.3r27.)
@@ -27,8 +27,9 @@ _**(Due to the new mod reloading system you can't use this in multiplayer for cl
 9. game6: `3.mp3` from v3.5r40.)
 10. game7: `4.mp3` from v3.5r40.)
 11. game8: `5.mp3` from v3.5r40.)
+12. game9: `6.mp3` from v3.5r40.)
 
 ## Other Mindustry Mods!
 
-Simon Woodburry-Forget has a list [here](https://simonwoodburyforget.github.io/mindustry-mods/).
-If you want your mod on there, you can add it [here](https://github.com/SimonWoodburyForget/mindustry-mods/blob/master/CONTRIBUTING.md#adding-mods-to-the-listing).
+[Mods for v6](https://github.com/topics/mindustry-mod-v6)
+[Mods for v5](https://github.com/topics/mindustry-mod)
