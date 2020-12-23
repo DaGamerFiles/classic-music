@@ -12,7 +12,7 @@ Credits to Anuke (Mindustry dev) and the music creator, I didn't make any of tho
 2. ~~Same step as above.~~
 3. ~~After you follow the 2nd step, disable the mod and join any server you want.~~
 
-_**(Due to the new mod reloading system you can't use this in multiplayer for client-side v6.0 alpha unless everyone in your server have the mod)**_
+_**(Due to the new mod reloading system you can't use this in multiplayer for client-side v6.0 unless everyone in your server have the mod)**_
 
 ## Music List
 
