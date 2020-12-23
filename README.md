@@ -31,5 +31,4 @@ _**(Due to the new mod reloading system you can't use this in multiplayer for cl
 
 ## Other Mindustry Mods!
 
-[Mods for v6](https://github.com/topics/mindustry-mod-v6)
-[Mods for v5](https://github.com/topics/mindustry-mod)
+[Mods for v6](https://github.com/topics/mindustry-mod-v6) | [Mods for v5](https://github.com/topics/mindustry-mod)
