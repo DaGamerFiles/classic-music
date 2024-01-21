@@ -4,4 +4,4 @@ author: "[magenta]DaGamerFiles"
 description: "Play with classic Mindustry music [gold](from v3.3r27, v3.5r40, and v5)[white]! For Mindustry v6."
 version: "2.1"
 minGameVersion: "136"
-hidden: "true"
+hidden: true
